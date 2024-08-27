@@ -3,6 +3,7 @@
 ## And this is my Level-2 Header
 
 *Here's some italic text*
+
 **And even some bold text, if you will**
 
 Let's make a list, too!
