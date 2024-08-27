@@ -1,8 +1,6 @@
 # Best Anemo Characters in Genshin
 
-**(TOTALLY NOT BIASED)**
-
-*This ranking is based upon how powerful they are **AS A PLAYABLE CHARACTER, NOT LORE-WISE**.*
+*This ranking is based upon how powerful they are **AS A PLAYABLE CHARACTER, NOT LORE-WISE,** as well as simply how much I like them.*
 
 - [Item 1]()
 - [Item 2]()
