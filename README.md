@@ -1,6 +1,6 @@
 # My Very Own Repo
 ---
-## And this is my Level-2 Header
+## This is my Level-2 Header
 
 *Here's some italic text*
 
