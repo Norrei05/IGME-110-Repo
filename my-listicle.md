@@ -1,6 +1,6 @@
 # Demonia Shoes I Want, In Order of Heel Heights
 
-*This is my list of Demonia brand shoes that I want, one for each heel height listed on their website. My list spans from 1 inch to 7 inches.*
+*This is my list of Demonia brand shoes that I want, one for each heel height listed on their website. Due to personal preferences, <1 inch shoes are not included.*
 
 - **1-Inch Shoes:** [Bolt-415](https://demoniacult.com/collections/all/products/bolt-415bvl?_pos=10&_fid=86b0955aa&_ss=c)
 - **2-Inch Shoes:** [Cubby-25](https://demoniacult.com/collections/all/products/cubby-25bhg?_pos=18&_fid=1c29542e1&_ss=c)
