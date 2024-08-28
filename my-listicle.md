@@ -1,4 +1,5 @@
-# Demonia Shoes I Want, In Order of Heel Heights
+# Demonia Shoes I Want
+## (In Order of Heel Heights)
 
 *This is my list of Demonia brand shoes that I want, one for each heel height listed on their website. Due to personal preferences, <1 inch shoes are not included.*
 
