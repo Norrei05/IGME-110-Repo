@@ -24,4 +24,4 @@ What about a picture? ...A cool picture, perhaps?
 ![sunglasses emoji](https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/1024px/1f60e.png)
 
 Even more cool pictures!!
-![cassie, a shaggy black dog](md-image/cassie.jpg)
+![cassie, a shaggy black dog](md-images/cassie.jpg)
